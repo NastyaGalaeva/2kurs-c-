@@ -1,0 +1,6 @@
+C:\Users\Nastya\Desktop\Прога\lab1\lab1\bin\Debug\lab1.exe.config
+C:\Users\Nastya\Desktop\Прога\lab1\lab1\bin\Debug\lab1.exe
+C:\Users\Nastya\Desktop\Прога\lab1\lab1\bin\Debug\lab1.pdb
+C:\Users\Nastya\Desktop\Прога\lab1\lab1\obj\Debug\lab1.csproj.CoreCompileInputs.cache
+C:\Users\Nastya\Desktop\Прога\lab1\lab1\obj\Debug\lab1.exe
+C:\Users\Nastya\Desktop\Прога\lab1\lab1\obj\Debug\lab1.pdb

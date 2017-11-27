@@ -1,0 +1,7 @@
+C:\Users\Nastya\Desktop\Прога\lab4\lab4\obj\Debug\lab4.csprojResolveAssemblyReference.cache
+C:\Users\Nastya\Desktop\Прога\lab4\lab4\obj\Debug\lab4.csproj.CoreCompileInputs.cache
+C:\Users\Nastya\Desktop\Прога\lab4\lab4\bin\Debug\lab4.exe.config
+C:\Users\Nastya\Desktop\Прога\lab4\lab4\bin\Debug\lab4.exe
+C:\Users\Nastya\Desktop\Прога\lab4\lab4\bin\Debug\lab4.pdb
+C:\Users\Nastya\Desktop\Прога\lab4\lab4\obj\Debug\lab4.exe
+C:\Users\Nastya\Desktop\Прога\lab4\lab4\obj\Debug\lab4.pdb
