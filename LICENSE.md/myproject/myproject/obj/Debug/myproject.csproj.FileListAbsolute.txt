@@ -1,0 +1,10 @@
+C:\Users\Nastya\Desktop\Прога\myproject\myproject\obj\Debug\myproject.csprojResolveAssemblyReference.cache
+C:\Users\Nastya\Desktop\Прога\myproject\myproject\obj\Debug\myproject.Properties.Resources.resources
+C:\Users\Nastya\Desktop\Прога\myproject\myproject\obj\Debug\myproject.csproj.GenerateResource.Cache
+C:\Users\Nastya\Desktop\Прога\myproject\myproject\obj\Debug\myproject.csproj.CoreCompileInputs.cache
+C:\Users\Nastya\Desktop\Прога\myproject\myproject\bin\Debug\myproject.exe.config
+C:\Users\Nastya\Desktop\Прога\myproject\myproject\bin\Debug\myproject.exe
+C:\Users\Nastya\Desktop\Прога\myproject\myproject\bin\Debug\myproject.pdb
+C:\Users\Nastya\Desktop\Прога\myproject\myproject\obj\Debug\myproject.exe
+C:\Users\Nastya\Desktop\Прога\myproject\myproject\obj\Debug\myproject.pdb
+C:\Users\Nastya\Desktop\Прога\myproject\myproject\obj\Debug\Collage.Form1.resources

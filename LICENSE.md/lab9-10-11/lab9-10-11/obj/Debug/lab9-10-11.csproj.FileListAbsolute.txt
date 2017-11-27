@@ -1,0 +1,7 @@
+C:\Users\Nastya\Desktop\Прога\lab9-10-11\lab9-10-11\bin\Debug\lab9-10-11.exe.config
+C:\Users\Nastya\Desktop\Прога\lab9-10-11\lab9-10-11\bin\Debug\lab9-10-11.exe
+C:\Users\Nastya\Desktop\Прога\lab9-10-11\lab9-10-11\bin\Debug\lab9-10-11.pdb
+C:\Users\Nastya\Desktop\Прога\lab9-10-11\lab9-10-11\obj\Debug\lab9-10-11.csprojResolveAssemblyReference.cache
+C:\Users\Nastya\Desktop\Прога\lab9-10-11\lab9-10-11\obj\Debug\lab9-10-11.csproj.CoreCompileInputs.cache
+C:\Users\Nastya\Desktop\Прога\lab9-10-11\lab9-10-11\obj\Debug\lab9-10-11.exe
+C:\Users\Nastya\Desktop\Прога\lab9-10-11\lab9-10-11\obj\Debug\lab9-10-11.pdb
