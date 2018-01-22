@@ -1,0 +1,13 @@
+C:\Users\Nastya\Desktop\Прога\Новостная лента\Новостная лента\bin\Debug\Новостная лента.exe.config
+C:\Users\Nastya\Desktop\Прога\Новостная лента\Новостная лента\bin\Debug\Новостная лента.exe
+C:\Users\Nastya\Desktop\Прога\Новостная лента\Новостная лента\bin\Debug\Новостная лента.pdb
+C:\Users\Nastya\Desktop\Прога\Новостная лента\Новостная лента\obj\Debug\Новостная лента.csprojResolveAssemblyReference.cache
+C:\Users\Nastya\Desktop\Прога\Новостная лента\Новостная лента\obj\Debug\Новостная_лента.Form1.resources
+C:\Users\Nastya\Desktop\Прога\Новостная лента\Новостная лента\obj\Debug\Новостная_лента.Properties.Resources.resources
+C:\Users\Nastya\Desktop\Прога\Новостная лента\Новостная лента\obj\Debug\Новостная лента.csproj.GenerateResource.Cache
+C:\Users\Nastya\Desktop\Прога\Новостная лента\Новостная лента\obj\Debug\Новостная лента.csproj.CoreCompileInputs.cache
+C:\Users\Nastya\Desktop\Прога\Новостная лента\Новостная лента\obj\Debug\Новостная лента.exe
+C:\Users\Nastya\Desktop\Прога\Новостная лента\Новостная лента\obj\Debug\Новостная лента.pdb
+C:\Users\Nastya\Desktop\Прога\Новостная лента\Новостная лента\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Nastya\Desktop\Прога\Новостная лента\Новостная лента\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Nastya\Desktop\Прога\Новостная лента\Новостная лента\bin\Debug\HtmlAgilityPack.xml
